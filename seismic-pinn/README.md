@@ -36,13 +36,13 @@ $$\mathcal{L} = \mathcal{L}_{physics} + \lambda_{BC}\mathcal{L}_{BC} + \lambda_{
 ## Results
 
 ### 1D Wave Propagation
-![Animasi Gelombang 1D](1d_wave.gif)
+<img src="1d_wave.gif" alt="Animasi Gelombang 1D" width="500">
 
 ### 2D Wave Propagation
 ![Animasi Gelombang 2D](2d_wave.gif)
 
 ### Inverse Problem: Wave Speed Recovery
-][convergence](c_convergence.png])
+][convergence](c_convergence.png)
 
 Successfully recovered wave speed c = 2.0 from initial guess c = 1.0 with < 2% error.
 
